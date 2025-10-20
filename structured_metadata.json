@@ -1,0 +1,48 @@
+[
+  {
+    "raw_output": "```json\n{\n    \"program_name\": \"BSc (SC , SC with ED)\",\n    \"coursetitle\": \"Foundation of Pure Mathematics\",\n    \"coursecode\": \"MAT 112\",\n    \"studylevel\": \"First Year\",\n    \"examtype\": \"Examinations Not Specified in Text\",\n    \"academicyear\": \"2015/2016\",\n    \"yearofstudy\": \"First Semester\"\n}\n```",
+    "file": "2ND MAT 112  fundamentals of pure mathematics.pdf",
+    "processing_time": 17.96
+  },
+  {
+    "program_name": "Bachelor of Economics",
+    "coursetitle": "Project Appraisal and Evaluation",
+    "coursecode": "ECO 422",
+    "studylevel": "Fourth Year",
+    "examtype": "",
+    "academicyear": "2016/2017",
+    "yearofstudy": "Fourth Year",
+    "semester": "",
+    "file": "422 KU (1) project appraisal and avaluation.pdf",
+    "processing_time": 14.57
+  },
+  {
+    "program_name": "Bachelor Economics",
+    "coursetitle": "Economic Policy Analysis",
+    "coursecode": "ECO 423",
+    "studylevel": "Bachelors",
+    "examtype": "",
+    "academicyear": "2016/2017",
+    "yearofstudy": "Fourth Year",
+    "semester": "",
+    "file": "423 economic policy analysis.pdf",
+    "processing_time": 14.96
+  },
+  {
+    "program_name": "",
+    "coursetitle": "Introductory Sociology",
+    "coursecode": "ACD:051",
+    "studylevel": "",
+    "examtype": "Regular Examination",
+    "academicyear": "2015/2016",
+    "yearofstudy": "",
+    "semester": "Second Semester",
+    "file": "ACD 051 INTRODUCTION TO SOCIOLOGY.pdf",
+    "processing_time": 14.03
+  },
+  {
+    "raw_output": "```json\n{\n    \"program_name\": \"\",\n    \"coursetitle\": \"Introduction to Penology\",\n    \"coursecode\": \"ACD 055\",\n    \"studylevel\": \"\",\n    \"examtype\": \"\",\n    \"academicyear\": \"2016/2017\",\n    \"yearofstudy\": \"\",\n    \"semester\": \"\"\n}\n```",
+    "file": "ACD 055 INTRODUCTION TO PENOLOGY (3).pdf",
+    "processing_time": 12.18
+  }
+]
