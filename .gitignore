@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.py[cod]
@@ -64,3 +65,8 @@ pip-delete-this-directory.txt
 # Secret files
 my_secrets.py
 mysql_conn.py
+
+venv
+db.sqlite3
+resources
+*.pyc
