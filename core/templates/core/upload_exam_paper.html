@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% load form_extras %}
+{% block content %}
+  <h2 class="mb-4">Upload Exam Paper PDF</h2>
+  <form method="post" enctype="multipart/form-data" class="card p-4 shadow-sm mb-4">
+    {% csrf_token %}
+    <div class="mb-3">
+      {{ form.pdf_file.label_tag }}
+      {{ form.pdf_file|add_class:'form-control' }}
+    </div>
+    <button type="submit" class="btn btn-primary">Upload</button>
+  </form>
+{% endblock %}
