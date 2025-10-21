@@ -69,4 +69,5 @@ mysql_conn.py
 venv
 db.sqlite3
 resources
+exam_papers
 *.pyc
