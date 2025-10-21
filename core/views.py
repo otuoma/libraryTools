@@ -55,25 +55,21 @@ def verify_metadata(request):
 		authenticated = d.authenticate()
 		form = ExamPaperMetadataForm(request.POST, request.FILES)
 		if form.is_valid():
-			print("=============Form is valid. Saving data...=========")
 			form.save()
 			pdf_file = f"{form.cleaned_data.get('pdf_path', '')}"
 			created_item = create_item(form)
 			if isinstance(created_item, Item) and created_item.uuid is not None:
 				print(f"==========Item created successfully with UUID: {created_item.uuid}================")
 			else:
-				print("==========Item creation failed.================")
 				return render(request, 'core/verify_metadata.html', {'form': form, 'pdf_path': pdf_file})
 			
 			uploaded_bitstream = upload_item_bitstream(created_item, pdf_file=pdf_file)
 			if(uploaded_bitstream):
-				print("==========Bitstream uploaded successfully.================")
 				# Clear session data
 				request.session.flush()
 				return redirect('upload_exam_paper')
 			return render(request, 'core/verify_metadata.html', {'form': form, 'pdf_path': pdf_file})
 		else:
-			print("=============Form is invalid. Errors found...=========")
 			pdf_file = request.POST.get('pdf_path', '')
 			return render(request, 'core/verify_metadata.html', {'form': form, 'pdf_path': pdf_file})
 	else:
@@ -169,7 +165,7 @@ def search_collection(collection_name):
 	# Search collections by name using DSpace REST API
 	# Use a query that matches the collection_name
 	cleaned_collection_name = re.sub(r'\b(?:msc|bsc)\b', '', collection_name, flags=re.IGNORECASE).strip()
-	search_results = d.search_objects(query=f"{cleaned_collection_name}", dso_type='collection', page=0, size=100)
+	search_results = d.search_objects(query=f"{cleaned_collection_name}", dso_type='collection', page=0, size=500)
 	print(f"=========Found {len(search_results)} collections matching '{collection_name}'==========")
 	collections = []
 	for collection in search_results:
