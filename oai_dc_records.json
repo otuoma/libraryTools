@@ -58,5 +58,1164 @@
         "https://creativecommons.org/licenses/by/4.0"
       ]
     }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/7",
+      "datestamp": "2024-11-13T06:30:54Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Knowledge management jobs in Kenya: a functional analysis"
+      ],
+      "creator": [
+        "Kwanya, Tom",
+        "Ogutu, Jared",
+        "Muthuri, Eric",
+        "Turandi, Tajerua",
+        "Maina, Eric",
+        "Omach, Christone"
+      ],
+      "description": [
+        "Rationale of study – Most organisations in Kenya face challenges integrating the knowledge management function in their structures due to the lack of a clear understanding of what knowledge managers should do. Consequently, there currently exist varied, unpredictable and often shallow job descriptions associated with knowledge managers.Methodology - The researchers conducted a functional analysis of knowledge management jobs in Kenya in an effort to establish the general job titles used to refer to knowledge management specialists; ascertain their position in the organisational structure; explore their job responsibilities and requirements; as well as understand any special requirements associated with knowledge management roles. Data was obtained through a content analysis of job advertisements carried in the Daily Nation and Standard, which are the leading newspapers in Kenya, in 2013 and 2014. Additional data was also obtained from online job advertisement platforms.Findings - Most organisations in Kenya do not have a good understanding of what knowledge management specialists do. Consequently, existing knowledge management positions have ambiguous and diverse job descriptions and requirements.Implications - The findings of this study can be used by organisations in Kenya to develop appropriate knowledge management job descriptions for knowledge management professionals. The findings may also be used by the relevant training institutions to develop and deploy relevant curricula to equip the potential knowledge management professionals with the requisite skills.Originality - The researchers propose a model job description for knowledge management specialists which may be applied by organisations in Kenya and beyond."
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2016-06-01"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/7",
+        "10.70759/6wwjee41"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 1 No. 1 (2016); 20-38",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/7/2"
+      ],
+      "rights": [
+        "Copyright (c) 2016 Dr. Tom Kwanya, Jared Ogutu, Eric Muthuri, Tajerua Turandi, Eric Maina, Christone Omach (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/8",
+      "datestamp": "2024-11-13T06:30:54Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Distance librarianship in Kenyan universities"
+      ],
+      "creator": [
+        "Wakasa, Joan"
+      ],
+      "subject": [
+        "Information resources repackaging",
+        "open and distance learning",
+        "distance librarianship",
+        "Kenya"
+      ],
+      "description": [
+        "Rationale of study – Many institutions of higher learning in Kenya are now delivering their programmes through distance learning and the library is providing support by offering information resources and services to students who are off campus. This research sought to establish the effectiveness of libraries in providing information resources and services to open and distance learners (ODLs).Methodology – The research used a descriptive survey design to analyse the effectiveness of information resource and service provision to ODLs by university libraries in Kenya. Data was collected using interviews and questionnaires from 179 ODLs and 83 librarians in selected universities in Kenya offering ODL programmes. The data collected was edited, organised, analysed quantitatively using descriptive statistics.Findings – The study found that academic libraries were generally effective in delivering services to ODLs. This was exemplified by the existence of institutional repositories where research papers were available to ODLs; the majority of the students were trained on basic computer skills enabling them to use digital resources effectively; as well as collaboration during information repackaging between faculty, ICT staff and ODL personnel.Implications – This study is of importance to university libraries, librarians, ODLs and administrators in universities in Kenya. The findings can be used to develop policies, programmes and infrastructure in academic libraries in Kenya to enable them to support distance learning effectively.Originality – This paper highlights the role libraries can play to ODL university students, an aspect that can greatly influence information resource and service delivery. It makes a significant contribution to the distance librarianship practice and policy."
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2016-06-01"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/8",
+        "10.70759/1m1skz39"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 1 No. 1 (2016); 39-53",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/8/3"
+      ],
+      "rights": [
+        "Copyright (c) 2016 Dr. Joan Wakasa (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/9",
+      "datestamp": "2024-11-13T06:30:54Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Resource Description and Access (RDA): enhancing information discovery through effective description"
+      ],
+      "creator": [
+        "Thuku, Catherine"
+      ],
+      "subject": [
+        "Resource Description and Access",
+        "descriptive cataloguing",
+        "metadata",
+        "Functional Requirement of Bibliographic Records",
+        "cataloguing"
+      ],
+      "description": [
+        "Rationale of Study – Resource Description and Access (RDA) is the new cataloguing content standard providing instructions and guidelines for creating effective bibliographic data for information resources in all formats of content and media. It replaces the Anglo-American Cataloguing Rules, 2nd edition (AACR-2). This paper seeks to draw the attention of librarians to RDA as a means of promoting its application.Methodology – This study was conducted as a literature review analysing the origins and rationale of RDA, its structure, benefits, relationship with AACR-2, and how to implement it in libraries in developing countries such as Kenya.Findings – RDA is founded on established cataloguing principles, standards and models. It is schema-neutral and can work with the existing cataloguing formats such as Machine-Readable Cataloguing (MARC), formats for interchange of data over the Internet such as Extensible Markup Language (XML) and other structures that may be developed in the future. It is user-focused utilising terminology that is widely used and describes resources in a way that promotes specific user tasks - find, identify, select and obtain information resources as a way of enhancing their use.Implications – This paper can be used by librarians to understand the benefits of RDA as a cataloguing platform and adopt the same to enhance the findability of information resources through effective description and access.Originality – Although this paper relies on existing scientific literature, it provides new perspectives for the Kenyan context. To that extent, it is original."
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2016-12-01"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/9",
+        "10.70759/te5f3c40"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 1 No. 2 (2016); 1-11",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/9/4"
+      ],
+      "rights": [
+        "Copyright (c) 2016 Catherine Thuku (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/10",
+      "datestamp": "2024-11-13T06:30:54Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "A Conceptual Data Mining Model (DMM) used in Selective Dissemination of Information (SDI): a case study of Strathmore University library"
+      ],
+      "creator": [
+        "Ambayo Alunga, Jackson",
+        "Ateya Lukandu , Ismail"
+      ],
+      "subject": [
+        "Data mining",
+        "bibliomining",
+        "Selective Dissemination of Information (SDI)",
+        "information needs",
+        "knowledge discovery in databases (KDD)",
+        "academic libraries"
+      ],
+      "description": [
+        "Rationale - The process of locating and acquiring relevant information from libraries is getting more complicated due to the vast amount of information resources one has to plough through. To serve users purposefully, an academic library should be able to avail to users the tools and services that lessen the task of searching for information.Design - The research proposed a two-phase data mining through analysing the access behaviour of users. In the first phase, the Ant Colony Clustering Algorithm was used as the data mining method and separated users into several clusters depending on access records used. The clusters were in the form of course groupings. Users who have similar interests and behaviour were collected in the same cluster. In the second phase, the user records in the same cluster were analysed further. The second phase relied on association which was used to discover the relationship between users and information resources, users’ interests and their information access behaviour.Findings - It was ascertained that although users were able to locate and retrieve the information they needed, it was not up to the degree of satisfaction they expected. Furthermore, it took them some time to acquire the information. Using data mining together with selective dissemination of information would enable users to access relevant information without promptly thus saving time and other resources. Practical implications - The mining of user data within library databases would facilitate a better understanding of user needs and requirements leading to the development and delivery of specialised and more fulfilling services.Originality - The proposed DMM model is original as it is one of a kind that suggests integrating SDI with data mining in libraries.&nbsp;"
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2016-12-01"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/10",
+        "10.70759/62f4c951"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 1 No. 2 (2016); 12-21",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/10/5"
+      ],
+      "rights": [
+        "Copyright (c) 2016 Jackson Ambayo Alunga, Prof. Ismael Ateya Lukandu (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/11",
+      "datestamp": "2024-11-13T06:30:54Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Knowledge audit at National Archives of Zimbabwe: a step towards implementing knowledge management"
+      ],
+      "creator": [
+        "Dewah, Peterson"
+      ],
+      "subject": [
+        "Archives",
+        "explicit knowledge",
+        "knowledge audit",
+        "knowledge management",
+        "tacit knowledge",
+        "Zimbabwe"
+      ],
+      "description": [
+        "Rationale of Study&nbsp;-The first step to implement knowledge management is preceded by an audit of the organisation’s knowledge and as such, this study sought to investigate the knowledge that National Archives of Zimbabwe (NAZ) needs, where that knowledge is, how it is being used, the problems experienced, and the improvements which can be made. Methodology&nbsp;-A case study approach with a triangulation of data collection methods was employed. Data was collected through questionnaires, interviews and documentary analysis. Findings&nbsp;-The study established that NAZ archivists possess vital tacit knowledge required by the organisation. However, they need to acquire knowledge on audio-visual records management, conservation of documents, and reprographics, among other areas. It also emerged that printed documents such as manuals and bookswere very useful sources of explicit knowledge for decision making. Another finding was that internal and external knowledge flow is hindered by poor communication and unwillingness of staff to share knowledge, among other barriers. The gaps established were that archivists very often were not sure about where to find relevant information or what to do. They were also unsure of whom to collaborate with. Implications&nbsp;-This paper can be used as a stepping stone to initialise the implementation of knowledge management practice at the NAZ. Originality&nbsp;-The paper presents the findings of a knowledge audit that was, for the first time, conducted at the National Archives of Zimbabwe, an organisation that has suffered knowledge attrition due to employee mobility."
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2017-06-01"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/11",
+        "10.70759/spwa1g85"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 2 No. 1 (2017); 1-14",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/11/6"
+      ],
+      "rights": [
+        "Copyright (c) 2017 Peterson Dewah (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/12",
+      "datestamp": "2024-11-13T06:30:54Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Provision of digital reference services in academic libraries in Kenya: a review"
+      ],
+      "creator": [
+        "M. Tutu, James"
+      ],
+      "subject": [
+        "Data mining",
+        "bibliomining",
+        "Selective Dissemination of Information (SDI)",
+        "Information needs",
+        "knowledge discovery in databases (KDD)",
+        "academic libraries"
+      ],
+      "description": [
+        "Rationale - The process of locating and acquiring relevant information from libraries is getting more complicated due to the vast amount of information resources one has to plough through. To serve users purposefully, an academic library should be able to avail to users the tools and services that lessen the task of searching for information.Design - The research proposed a two-phase data mining through analysing the access behaviour of users. In the first phase, the Ant Colony Clustering Algorithm was used as the data mining method and separated users into several clusters depending on access records used. The clusters were in the form of course groupings. Users who have similar interests and behaviour were collected in the same cluster. In the second phase, the user records in the same cluster were analysed further. The second phase relied on association which was used to discover the relationship between users and information resources, users’ interests and their information access behaviour.Findings - It was ascertained that although users were able to locate and retrieve the information they needed, it was not up to the degree of satisfaction they expected. Furthermore, it took them some time to acquire the information. Using data mining together with selective dissemination of information would enable users to access relevant information without promptly thus saving time and other resources. Practical implications - The mining of user data within library databases would facilitate a better understanding of user needs and requirements leading to the development and delivery of specialised and more fulfilling services.Originality - The proposed DMM model is original as it is one of a kind that suggests integrating SDI with data mining in libraries.&nbsp;"
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2017-06-01"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/12",
+        "10.70759/b0w10y66"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 2 No. 1 (2017)",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/12/95"
+      ],
+      "rights": [
+        "Copyright (c) 2017 James M. Tutu (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/13",
+      "datestamp": "2024-11-13T06:30:54Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "A review of the status of e-government implementation in Kenya"
+      ],
+      "creator": [
+        "Nderitu Imbamba, Esther",
+        "Kimile, Nancy"
+      ],
+      "subject": [
+        "E-government",
+        "E-Government Assessment Schemes",
+        "E-Government Development Index",
+        "Network Readiness Index",
+        "Kenya"
+      ],
+      "description": [
+        "Abstract Rationale of Study – Successful implementation of today’s government operations requires effective policy making and system monitoring through relevant data and information. E-government offers an increased portfolio of public services in a cost-effective and efficient manner hence enabling governments to reinvent the ways through which they interact with citizens, private sector, employees and other stakeholders. Consequently, many countries have invested significant resources into collecting, processing, integrating, analysing and reporting data through information and communication technologies (ICTs). The aim of this paper is to review the status of e-government implementation in Kenya.Methodology – In order to measure the status of e-government, two indexes were used: 1) E-government Development Index (EGDI); and 2) Network Readiness Index (NRI). The study adopted a theoretical approach by conducting a review of literature on e-government in Kenya. Fit-Viability theory was used to assess the capacity of the Government of Kenya to roll out viable e-services to its citizens.Findings – The findings indicate that Kenya has made significant progress in e-government implementation. The benefits of e-government implementation in Kenya currently include enhanced e-participation, accountability, planning, monitoring and information sharing. However, challenges such as inadequate infrastructure, policy and human capital development hamper the effectiveness of e-government projects in Kenya. These challenges may be surmounted through increased digital inclusivity, enhanced broadband connectivity, strengthened staff ICT skills and openness to new technologies.Implications – The findings of this study may be used by the Government of Kenya to plan, roll out and monitor e-government projects with a view to enhancing their success and impact.Originality – A number of studies on e-government in Kenya exist. Their focus has been on the factors affecting the effective implementation of e-government in Kenya. Periodical assessment of the status of the projects is lacking. This study seeks to fill this gap.&nbsp;"
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2017-12-01"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/13",
+        "10.70759/qxtwap18"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 2 No. 2 (2017); 14-28",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/13/7"
+      ],
+      "rights": [
+        "Copyright (c) 2017 Esther Nderitu Imbamba, Nancy Kimile (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/14",
+      "datestamp": "2024-11-13T06:30:53Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Indigenous Knowledge in Acholi Nicknames"
+      ],
+      "creator": [
+        "Pido, J.P. Odoch"
+      ],
+      "subject": [
+        "Acholi",
+        "Uganda",
+        "East Africa",
+        "nicknames",
+        "indigenous knowledge"
+      ],
+      "description": [
+        "Rationale of Study – Nicknames are a cultural experience. In some contexts, they are perceived as ‘little’ names that are different from ‘official’ names. Therefore, a nickname is a part of personal identity. Nicknames are often discreet and sometimes opaque. This article explains the meaning of a nickname in the African context and specifically discusses Acholi nicknames (mwoch) as an indigenous way of generating, sharing and preserving knowledge.Methodology – Data for this paper was obtained through interviews. The author interviewed purposively selected respondents from Mucwini in Kitgum and other parts of Acholi sub-region in northern Uganda. It is the nicknames that were the subject of these interviews that are presented, analysed and discussed in this article. The author also tapped into his childhood experience and knowledge of Acholi culture.Findings – Overall Acholi nicknames communicate indigenous knowledge but they must be unlocked, deconstructed and explained in detail in order to share their meanings with the wider world in time and space. It is writing and publication that holds a promise of conserving the knowledge so easily lost because it is considered casual, trivial and peripheral to the core of cultures.Implications – The findings of this study may be used to demonstrate the power of cultural practices, such as nicknames, to generate, share and preserve indigenous knowledge. They may also be used by governments and cultural institutions to mainstream indigenous knowledge in the preservation of the universe of knowledge in communities.Originality – There is limited literature on African nicknames. This article adds an East African tone to ongoing discourse on names and nicknames by non-onomastics scholars who view nicknames as a form of indigenous expression and communication that is deeply rooted in knowledge and philosophy. If not elucidated, the knowledge remains hidden from scholars, and thus unproductive to creativity and eventually lost to all"
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2017-12-01"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/14",
+        "10.70759/ayywc788"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 2 No. 2 (2017); 1-13",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/14/8"
+      ],
+      "rights": [
+        "Copyright (c) 2017 J.P. Odoch Pido (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/15",
+      "datestamp": "2024-11-13T06:30:53Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Information needs of and services to small-scale vegetable farmers in Wareng, Uasin Gishu County, Kenya"
+      ],
+      "creator": [
+        "Rop, Zipporah"
+      ],
+      "subject": [
+        "Small-scale vegetable farmers",
+        "agricultural information",
+        "Wareng Sub-County",
+        "Uasin Gishu County",
+        "Kenya"
+      ],
+      "description": [
+        "Rationale of Study – Agriculture remains the most important economic activity in Kenya. Efficient and effective provision of information is essential to the success of agriculture. The aim of this study was to investigate the provision of information to small-scale vegetable farmers in Wareng Sub-County, Uasin Gishu County, Kenya with a view of establishing the challenges and proposing a model for effective and efficient information flow to the vegetable farmers in the county.Methodology – The research used a case study approach. The population of the study comprised 75 smallscale vegetable farmers and 13 agricultural and extension officers in Wareng Sub-County. Data was collected through questionnaires and structured interviews as well as from secondary sources. The data was analysed using content analysis.Findings – The study found that vegetable farmers lack timely information specific to their information needs. The existing information systems and services were inadequate in satisfying the information needs. Furthermore, the study established that access to information was hampered by inadequate information resources and services.Implications – The findings of the study may be used to encourage the government to recognise the fact that information is an essential input for an effective agricultural system and as such contributes in a positive way to agricultural development. The findings, therefore, can be used to propose improvements to the existing information services, systems and channels in disseminating information to vegetable farmers.Originality – This study was original in terms of its focus and geographical orientation. Small-scale vegetable farming in Kenya is an important socioeconomic activity which provides employment opportunities to many citizens yet very little is known about the information needs of the farmers."
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2018-06-01"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/15",
+        "10.70759/d3e2mf44"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 3 No. 1 (2018); 1-14",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/15/9"
+      ],
+      "rights": [
+        "Copyright (c) 2018 Zipporah Rop (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/121",
+      "datestamp": "2024-11-13T06:38:28Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Policy mentions in data literacy research: A bibliometric analysis of 127 research papers"
+      ],
+      "creator": [
+        "Ezinwa Nwagwu, Williams"
+      ],
+      "subject": [
+        "Data literacy",
+        "policy framework",
+        "policy implications",
+        "education policy",
+        "public policy"
+      ],
+      "description": [
+        "Rationale of Study – This study examines the policy landscape surrounding data literacy, focusing on the intersection between data literacy and policy.Methodology – A bibliometric analysis was conducted on 127 documents related to data literacy out of the 997 indexed in Scopus. Keywords, titles, and abstracts were analysed to identify the presence and focus of policy-related discussions. Network visualisations of keyword clusters were employed to explore the interdisciplinary nature of data literacy.Findings – The study reveals a relatively low engagement with policy in data literacy research, with policy frequently mentioned in abstracts (111 occurrences) but rarely in titles or keywords. Keyword clusters showed two primary areas where policy considerations are crucial: education and governance. The findings also identified the need for differentiated policy approaches tailored to specific sectors like education, governance, and scientific research. The isolation of terms like \"scientific data\" suggests niche areas requiring targeted policy interventions.Implications – The findings suggest that data literacy initiatives need a more explicit focus on policy frameworks, particularly in education and governance, to ensure ethical and responsible data use. The study calls for policymakers to embed governance, privacy, and ethics discussions within data literacy education and decision-making processes.Originality – This study contributes to the underexplored area of policy integration in data literacy research. By highlighting the gap in policy considerations, the research underscores the need for a more holistic approach to data literacy, combining technical skills with governance, privacy, and ethical dimensions.&nbsp;"
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2024-11-01"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/121",
+        "10.70759/09stqm44"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 9 No. 2 (2024); 133-156",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/121/102"
+      ],
+      "rights": [
+        "Copyright (c) 2024 Williams Ezinwa Nwagwu (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/122",
+      "datestamp": "2024-11-13T06:38:28Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "African indigenous knowledge: Philosophy in history and history in philosophy"
+      ],
+      "creator": [
+        "Olatunji Oni, Babatunde",
+        "Olusegun Olalere, Titilope"
+      ],
+      "subject": [
+        "Aphorism",
+        "beliefs",
+        "ways of knowing",
+        "oral traditions",
+        "empiricism",
+        "rationalism",
+        "African society"
+      ],
+      "description": [
+        "Rationale of Study – This paper delves into the interconnectedness of African indigenous knowledge, situating its historical roots and the inherent philosophy embedded in its practice. African indigenous knowledge encompasses formulating a definition of knowledge in an African context and the justification of knowledge, which has its stand on cultural, linguistic, aphorism, and proverbial content. Scholars, however, argue that its historical foundation lies in the depths of time, tracing back to the ancient civilisations that thrived across the continent. On the other hand, its philosophical discourse serves as the guiding force behind the practices and beliefs of various communities. Within this purview, this paper sets out to close this gap.Methodology – This paper adopts primary and secondary data sources, including oral information, books, articles, and journals. However, it uses argumentative and analytic philosophical and historical inquiry methods to highlight that African indigenous knowledge is pivotal in preserving historical and philosophical insights.Findings – The study finds an interlink between history and philosophy in advancing African indigenous knowledge and its practice of knowing and justifying the indubitable truth that cannot be objectively attained in Western epistemology.Implications – The study contributes to the existing debate that the wisdom embedded in proverbs, myths, and folklore is a repository of philosophical principles, offering guidance on ethics, social harmony, and the relationship between humanity and nature through historical insights.Originality – The paper concludes that African indigenous knowledge has its own social and cultural dimension. It addresses the problem of knowledge by dividing its domain into rational, empirical, and mystical components, solving the problem of justification in the African context."
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2024-11-01"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/122",
+        "10.70759/2yyjb419"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 9 No. 2 (2024); 171-181",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/122/103"
+      ],
+      "rights": [
+        "Copyright (c) 2024 Babatunde Olatunji Oni, Titilope Olusegun Olalere (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/123",
+      "datestamp": "2024-11-13T06:38:28Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Analyses of mwoch: Acholi nicknames"
+      ],
+      "creator": [
+        "JP Odoch , Pido",
+        "K Pido, Donna"
+      ],
+      "subject": [
+        "Acholi",
+        "mwoch (nickname)",
+        "panegyric",
+        "meanings",
+        "cultural metaphor",
+        "identity and indigenous knowledge"
+      ],
+      "description": [
+        "Rationale of Study – Mwoch is an Acholi term for various poetic pronouncements. Depending on the frequency of use and popular reaction, such pronouncements can define individual identity or become community nicknames that work like national anthems. In general, mwoch are folkloric, metaphoric or panegyric statements of opinion on life; in this article, we translate mwoch as nicknames whose main cultural landscape is the Acholi of Northern Uganda. Methodology – Discourse analysis, participant observation, and interviews dating back to the 1940s were among the parameters we used. Yet, we fear that overindulgence in mainstream research methods will ‘get us stuck in a tar baby’ (Disney Walt, 1946). Findings – Though ‘getting stuck in a tar baby’ is culturally North American, it is similar to the Acholi folktale entitled ododo pa apwoyo, oculli ki won poto ngor (tale of the hare, wildcat and the owner of a field of cowpeas). The Hare and Wildcat used to steal the cowpeas; the owner noted goings-on but could not catch the culprits. The theft continued until the owner conceived and crafted a beautiful girl (tar baby) from the latex of a rubber tree and placed it in his field of cowpeas. When the two came to steal the crop, they saw the tar baby, engaged with it and got stuck. Implications – Although Acholi and American folktales strike similar notes, Acholi folktales are often different since they are largely verbal rather than visual and metaphoric rather than overt. Unless analysed and discussed, meanings in such expressions may remain hidden and rather useless to stakeholders, including scholars. Originality – This is an original article whose main goal is to unravel the meanings, if not the knowledge, of a few selected Acholi nicknames.&nbsp;"
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2024-11-12"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/123",
+        "10.70759/3vz9ys92"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 9 No. 2 (2024); 118-132",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/123/104"
+      ],
+      "rights": [
+        "Copyright (c) 2024 JP Odoch Pido, Donna K Pido (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/124",
+      "datestamp": "2025-03-17T12:57:12Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Users’ perspectives of public library for a knowledge-based society: Implications for developing countries"
+      ],
+      "creator": [
+        "Hosen, Md. Miraz",
+        "Jonayed"
+      ],
+      "subject": [
+        "Library environment",
+        "library digitalisation",
+        "knowledge management",
+        "library and community development"
+      ],
+      "description": [
+        "Rationale of Study – In today’s fast-paced, ever-changing world, knowledge has become a commodity and a capital that provides the basis for a knowledge-based society (KBS). Public libraries, however, are trying to stay relevant as a knowledge hub in such societies by expanding their roles in local communities. This research investigated the relationship among demography, accessibility, environment, digitalisation, and the library’s perceived role in a KBS. Methodology – Following cross-sectional quantitative research design, data was collected from 112 respondents using a structured questionnaire survey on the premises of the Pabna Government Public Library in Bangladesh. The 9-item scale showed acceptable internal consistency (α = .713) and using SPSS 25, descriptive analyses, Chi-square test, and Spearman correlation were carried out. Findings – The role of a public library in terms of readership and awareness in the community had a statistically significant (p-value &lt;0.001) positive correlation with accessibility (ρ=.334) and library environment (ρ=.513). At the same time, a negative association was observed with respondents’ level of education (ρ=-.265, p-value &lt;0.01). However, a weak relationship existed between profession and perception of the library environment (ρ=.186, p-value &lt;0.05). Implications – In similar developing country contexts, libraries must attract diverse users beyond educated youths and create a conducive library environment where it becomes a part of their community. Public libraries can consequently stay relevant and contribute to building a KBS. Originality – This paper reports the findings of an original study regarding users’ perceptions of public libraries in KBS from a developing country perspective."
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2024-10-31"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/124",
+        "10.70759/28bx2t54"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 9 No. 2 (2024); 158-169",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/124/105"
+      ],
+      "rights": [
+        "Copyright (c) 2024 Miraz Hosen, M. Jonayed (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/126",
+      "datestamp": "2025-06-15T16:09:40Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Knowledge Dynamics in Social Networks: Types of Knowledge Postgraduate Students Share in Tanzanian Higher Education"
+      ],
+      "creator": [
+        "Msafiri Ponera, Jaffar",
+        "Ngulube, Patrick"
+      ],
+      "description": [
+        "Rationale of Study – This study investigates the types of knowledge postgraduates prefer to share through social networks among higher Education institutions in Tanzania. Methodology – The study used a convergent mixed-methods research design. The study population comprised 633 postgraduates from selected higher education institutions (HEIs) in Tanzania. Probability sampling was used to select postgraduates to participate in the study, while purposive sampling was used to select eight heads of academic departments for the interview component. Questionnaires were emailed to 239 postgraduates from the four selected HEIs, of which 171 were filled out. Quantitative data was analysed using SPSS version 24, and results were presented in tables and figures, while qualitative data was thematically analysed. Findings – The study revealed that postgraduates preferred to share various types of knowledge through social networking sites, such as declarative, procedural, explicit, and others. Some of the reasons for sharing knowledge that were provided included the desire to strengthen their knowledge base. It is then recommended that postgraduates frequently use social networking to share academic-related knowledge. Implications – The study recommended that the management of HEIs in Tanzania encourage postgraduate students to use social networking sites ethically by exchanging knowledge that will help them strengthen their knowledge base and enhance their academic performance. Originality—The originality lies in its mixed-methods approach, which combines qualitative interviews and quantitative surveys to comprehensively understand knowledge-sharing behaviours."
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2025-06-15"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/126",
+        "10.70759/bejhwt20"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 10 No. 1 (2025); 1-18",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/126/117"
+      ],
+      "rights": [
+        "Copyright (c) 2025 Jaffar Msafiri Ponera, Prof. Patrick Ngulube (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/132",
+      "datestamp": "2025-06-15T16:09:40Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Influence of Land Records Management Practices on Service Delivery in District Councils, Tanzania"
+      ],
+      "creator": [
+        "Mogha, Huruma",
+        "Dulle, Frankwell",
+        "Benard, Ronald"
+      ],
+      "subject": [
+        "Land Records",
+        "Management",
+        "Registry office",
+        "Service delivery"
+      ],
+      "description": [
+        "Rationale of Study – Land records management practices are key to providing good services. However, quality service delivery in land registry offices remains unexplored, particularly in district councils in Tanzania. This study will assess land records management practices in providing quality services in selected districts Methodology – The study used quantitative and qualitative approaches in data collection. Questionnaires, interviewers, and observation were used as data collection tools. Purposive sampling was used to select 160 land registry staff and 19 key informants. Descriptive and inferential statistics were used in data analysis. SPSS version 26 was used to analyse quantitative data, while content analysis was used to analyse qualitative data. Findings – The results indicate that land records management practices, particularly the storage of paper records and tracking systems, significantly affect the quality of service delivery in district councils. Although land registry staff perform well in record creation, inefficient practices in storage and tracking hinder overall service effectiveness. Implications – The study emphasises the importance of effective land records management throughout the records' life cycle from creation to disposition to ensure high-quality service delivery. According to the study, improving storage, tracking, and regular staff training practices can significantly enhance service outcomes and reduce inefficiencies. Originality – While other studies in Tanzania focus on land policy and administration, this study's attention to the operational aspects of land records management practices and their direct impact on service provision is unique and contributes valuable insights for improving land registry offices in district councils."
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2025-06-15"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/132",
+        "10.70759/zep2rn81"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 10 No. 1 (2025); 19-34",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/132/118"
+      ],
+      "rights": [
+        "Copyright (c) 2025 Huruma Mogha, Frankwell Dule, Ronald Benald (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/134",
+      "datestamp": "2025-06-25T18:05:58Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Analysis of Co-authorship Patterns in Global e-Health Literacy Research"
+      ],
+      "creator": [
+        "Nwagwu, Williams E."
+      ],
+      "subject": [
+        "Collaborative Networks, Author Impact, Global Research Trends, Institutional Connections, Publication Metrics"
+      ],
+      "description": [
+        "Rationale of the Study - This study investigated the co-authorship patterns in global research on e-health literacy, focusing on authors, countries, and organisations to reflect the participation of African researchers and their institutions in collaborative research on e-health literacy. Methodology - The study period covered 2006 to 2024 and was based on publications retrieved from Scopus. VOSviewer was used to identify and map co-authored documents, revealing valuable insights into authorship. Findings - Between 2006 and 2024, a total of 7,887 authors wrote 2,027 documents on the subject, resulting in an average of 415 authorships per year. Leading countries in co-authorship include the US, Germany, Australia, and Canada. There were only 12 connected organisations, indicating room for growth in inter-institutional research partnerships. The University of Education, Winneba, Ghana, was the only African institution to have published four documents and established four collaborative links. Implications - Expanding institutional partnerships, particularly with countries that have high research volumes, such as China, could help address the disparity between research quantity and citation impact. Promoting structured collaborations can facilitate resource sharing, diversify perspectives, and improve the overall quality and influence of research, driving innovation and advancing the field globally. Originality - Many studies in this field focused on quantitative research, but this study deploys bibliometrics to reveal important insights. A unique finding of the study is a comparatively high volume of Chinese research. Conversely, previous studies have shown that China has a low research impact, highlighting disparities in global research influence."
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2025-06-25"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/134",
+        "10.70759/a7y3xx41"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 10 No. 1 (2025); 140-166",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/134/122"
+      ],
+      "rights": [
+        "Copyright (c) 2025 Williams E. Nwagwu (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/140",
+      "datestamp": "2025-07-02T14:26:17Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Financial Information Seeking Behaviour Among Women Entrepreneurs in Huye City Market, Rwanda"
+      ],
+      "creator": [
+        "Jjuuko, Margaret",
+        "Njuguna, Joseph",
+        "Rurangangabo, Patrick"
+      ],
+      "subject": [
+        "Women entrepreneurs",
+        "Financial needs",
+        "Information seeking behaviour",
+        "Rwanda"
+      ],
+      "description": [
+        "Rationale of Study – The study interrogated the financial information-seeking behaviour of small-scale women entrepreneurs in Huye City, Rwanda – exploring their knowledge of microfinance institutions (MFIs), the financial services available to them; their accessibility and usage of financial information and, by extension financial services; the preferred communication channels for accessing financial information, and the existing financial information gaps amongst these women. Methodology – Data was collected through a mini-survey with a semi-structured self-administered questionnaire targeting 128 women entrepreneurs. In-depth interviews and Focus Group Discussions generated qualitative data from 32 women entrepreneurs. Findings – The findings revealed that most women entrepreneurs in the Huye City market overtly sought information on business credit services but were unaware of or had little information on MFIs that specifically target women and the financial services available for women entrepreneurs (35%). Hence, accessibility and use of these services were negligible (8%). Social networks were revealed as the key channels to receive and share information on MFIs and the services offered. However, other interpersonal and mass communication channels were equally valuable, such as visits by MFI experts, insider acquaintances, community audio towers, and billboards. Implications – Overall, a significant gap in information about MFIs and financial services that specifically target women was evident amongst the respondents in this study. The informed few were reluctant to commit for fear of breaking the MFI's restrictive credit requirements. A multiplicity communication approach is recommended to enable as much MFI information as possible to reach women entrepreneurs. Originality – This original research generated empirical data on financial information-seeking behaviour among women entrepreneurs in Huye City, Rwanda."
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2025-06-15"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/140",
+        "10.70759/8xptxb88"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 10 No. 1 (2025); 35-54",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/140/109"
+      ],
+      "rights": [
+        "Copyright (c) 2025 Margaret Jjuuko, Joseph Njuguna, Patrick Rurangangabo (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/144",
+      "datestamp": "2025-06-15T16:09:40Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Constraints in the Integration of Gamification in Learning Management Systems in Higher Education"
+      ],
+      "creator": [
+        "Bogonko, Ben Mariga",
+        "Tombe, Ronald Keng’ara",
+        "Maina, Jane Cherono",
+        "Maake, Benard Magara"
+      ],
+      "subject": [
+        "Learning Management System",
+        "Constraints",
+        "Gamification",
+        "Higher Education",
+        "eLearning"
+      ],
+      "description": [
+        "Rationale of Study – Integrating gamification in Learning Management Systems (LMSs) in higher education is a complex undertaking often flawed by several constraints. This study focused on determining the constraints in integrating gamification technologies in LMSs. Methodology – Descriptive survey research design and inferential and descriptive statistics were employed in data analysis. The census sampling technique was adopted because of the small population size of 81 respondents. Questionnaires integrated into a modular object-oriented dynamic learning environment were administered to 81 respondents for data collection. The secondary data was accessed and downloaded from the Dimensions research database, whose articles spanned from 2015 to 2024. VOSviewer and Bibliometrix packages in R, JASP, and SPSS software were used to analyse data, and the results were presented in tables, charts, and statistical narratives. Findings – The study confirmed constraints when integrating gamification elements in LMSs. For students' motivational learning experience, constraints are inexorable in integrating these innovative technologies that any higher education institution may not avoid. The study recommends that the university management support learners’ technical team and lecturers with the appropriate eLearning infrastructures, among other necessary resources, to proactively help the LMS stakeholders overcome any constraints that may arise in the integration of gamification in education. Implications – This study is significant to institutional policymakers and eLearning instructional designers in meeting the fourth sustainable development goal that ensures inclusive and equitable quality education and promotes lifelong learning opportunities for everybody. Originality - This paper contributes to the understanding of the various constraints facing the integration of gamification in the higher education through bibliometric analysis and experimental research design and consequently making its implementation successful."
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2025-06-15"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/144",
+        "10.70759/rtpawh95"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 10 No. 1 (2025); 55-76",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/144/112"
+      ],
+      "rights": [
+        "Copyright (c) 2025 Ben Mariga Bogonko, Ronald Keng’ara Tombe, Jane Cherono Maina, Benard Magara Maake (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
+  },
+  {
+    "header": {
+      "identifier": "oai:oai.www.rjikm.org:article/170",
+      "datestamp": "2025-06-15T16:09:40Z",
+      "sets": [
+        "rjikm:Research",
+        "driver"
+      ],
+      "deleted": false
+    },
+    "metadata": {
+      "title": [
+        "Constraints Hampering the Performance of Information Communication Technology Service Projects"
+      ],
+      "creator": [
+        "Makanda, Nivah Nakhungu",
+        "Chweya, Ruth",
+        "Ogalo, James"
+      ],
+      "subject": [
+        "Constraints, Information and Communication Technology, Projects, Management"
+      ],
+      "description": [
+        "Rationale of Study – Information and Communication Technology (ICT) service organisations offer advanced business services and products to their customers and users through complex, innovative, and tailored programs and projects. Even with the strategic importance and trust placed in implementing these ICT service projects, organisations are facing an exorbitantly high percentage of ICT service project failures. This research focused on determining the impediments to the performance of ICT service projects in organisations. Methodology – The target population comprised 65 of Kenya Power's technical project team members. Due to the small size of the population, a census sampling method was adopted. A questionnaire was used in data collection. The reliability of the questionnaire was determined using McDonald's omega statistic coefficient. The collected data was analysed using descriptive statistics methods of mean and standard deviation, and inferential statistics methods of correlation and regression analysis. Findings – The study's results were presented through statistical narratives and tables. The results confirmed that most respondents believed that technological, leadership, environmental and other issues influenced the success of ICT service projects in organisations. The study concludes that constraints are inevitable in any business environment supported by ICT services, and no organisation can thrive without them. As such, it is the responsibility of the organisational management to address them accordingly for the success of their ICT service projects. Implications – This research shall enhance ICT service projects' policies and enlighten the leadership of organisations and other stakeholders when making informed decisions on improving ICT service projects' success. Originality – This research is pertinent to Kenya Power Company and its stakeholders, policymakers, practitioners and theorists. The researcher recommends further research to establish other impediments not covered in this study that may affect project performance."
+      ],
+      "publisher": [
+        "Regional Institute of Information and Knowledge Management"
+      ],
+      "date": [
+        "2025-06-15"
+      ],
+      "type": [
+        "info:eu-repo/semantics/article",
+        "info:eu-repo/semantics/publishedVersion",
+        "Research"
+      ],
+      "format": [
+        "application/pdf"
+      ],
+      "identifier": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/170",
+        "10.70759/868mfa28"
+      ],
+      "source": [
+        "Regional Journal of Information and Knowledge Management; Vol. 10 No. 1 (2025); 77-97",
+        "2412-6535"
+      ],
+      "language": [
+        "eng"
+      ],
+      "relation": [
+        "https://www.rjikm.org/index.php/rjikm/article/view/170/119"
+      ],
+      "rights": [
+        "Copyright (c) 2025 Nivah Nakhungu Makanda, Ruth Chweya, James Ogalo (Author)",
+        "https://creativecommons.org/licenses/by/4.0"
+      ]
+    }
   }
 ]
