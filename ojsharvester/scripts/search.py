@@ -33,11 +33,12 @@ def run():
 def get_issue_uuid(issue_name: str, journal_uuid: str) -> str | None:
     search_filters = {
         'f.entityType': 'JournalIssue,equals',
-        # 'f.title': f'"{issue_name}",equals',
+        # 'f.title': f'{issue_name},equals',
         'f.title': "Vol. 1 No. 2,equals",
+        'relation.isJournalOfJournalIssue': "e06af157-5193-498c-8eb8-9223f6d19480,equals",
     }
     search_results = d.search_objects(
-        query=f"*:*",
+        query=f"dc.title:'Vol. 1 No. 2'",
         dso_type='item',
         page=0,
         size=10,
