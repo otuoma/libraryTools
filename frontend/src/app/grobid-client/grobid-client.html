@@ -1,0 +1,178 @@
+<div class="container mt-4">
+    <div class="card shadow-sm">
+        <div class="card-header bg-primary text-white">
+            <h2 class="h5 mb-0">Grobid Client (REST API)</h2>
+        </div>
+        <div class="card-body">
+            <div class="mb-3">
+                <label for="fileInput" class="form-label">Select a PDF article</label>
+                <input type="file" class="form-control" id="fileInput" (change)="onFileSelected($event)" accept=".pdf">
+            </div>
+
+            <button class="btn btn-primary" (click)="uploadFile()" [disabled]="!selectedFile || isLoading">
+                <span *ngIf="isLoading" class="spinner-border spinner-border-sm me-2" role="status"
+                    aria-hidden="true"></span>
+                <span *ngIf="!isLoading">Upload and Process</span>
+                <span *ngIf="isLoading">Processing...</span>
+            </button>
+
+            <div *ngIf="error" class="alert alert-danger mt-3" role="alert">
+                <h4 class="alert-heading">Error</h4>
+                <p class="mb-0">{{ error }}</p>
+            </div>
+
+            <div *ngIf="result" class="mt-4">
+                <ul class="nav nav-tabs" id="resultTabs" role="tablist">
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link active" id="tei-tab" data-bs-toggle="tab" data-bs-target="#tei"
+                            type="button" role="tab" aria-controls="tei" aria-selected="true">TEI XML</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="metadata-tab" data-bs-toggle="tab" data-bs-target="#metadata"
+                            type="button" role="tab" aria-controls="metadata" aria-selected="false">Metadata</button>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <button class="nav-link" id="jats-tab" data-bs-toggle="tab" data-bs-target="#jats" type="button"
+                            role="tab" aria-controls="jats" aria-selected="false" (click)="generateJats()">JATS
+                            XML</button>
+                    </li>
+                </ul>
+                <div class="tab-content p-3 border border-top-0 rounded-bottom" id="resultTabsContent">
+                    <div class="tab-pane fade show active" id="tei" role="tabpanel" aria-labelledby="tei-tab">
+                        <pre class="bg-light p-3 border rounded"
+                            style="max-height: 500px; overflow-y: auto;"><code>{{ result }}</code></pre>
+                    </div>
+                    <div class="tab-pane fade" id="metadata" role="tabpanel" aria-labelledby="metadata-tab">
+                        <form [formGroup]="metadataForm">
+                            <div class="mb-3">
+                                <label class="form-label">Title</label>
+                                <input type="text" class="form-control" formControlName="title">
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <label class="form-label">Journal</label>
+                                    <input type="text" class="form-control" formControlName="journal">
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <label class="form-label">Publisher</label>
+                                    <input type="text" class="form-control" formControlName="publisher">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <label class="form-label">Date</label>
+                                    <input type="text" class="form-control" formControlName="date">
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <label class="form-label">DOI</label>
+                                    <input type="text" class="form-control" formControlName="doi">
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3 mb-3">
+                                    <label class="form-label">Volume</label>
+                                    <input type="text" class="form-control" formControlName="volume">
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <label class="form-label">Issue</label>
+                                    <input type="text" class="form-control" formControlName="issue">
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <label class="form-label">First Page</label>
+                                    <input type="text" class="form-control" formControlName="fpage">
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <label class="form-label">Last Page</label>
+                                    <input type="text" class="form-control" formControlName="lpage">
+                                </div>
+                            </div>
+                            <div class="mb-3">
+                                <label class="form-label">Abstract</label>
+                                <textarea class="form-control" formControlName="abstract" rows="4"></textarea>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-6 mb-3">
+                                    <label class="form-label">License Text</label>
+                                    <input type="text" class="form-control" formControlName="license_text">
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <label class="form-label">License URL</label>
+                                    <input type="text" class="form-control" formControlName="license_url">
+                                </div>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label d-flex justify-content-between align-items-center">
+                                    Authors
+                                    <button type="button" class="btn btn-sm btn-outline-primary"
+                                        (click)="addAuthor()">Add Author</button>
+                                </label>
+                                <div formArrayName="authors">
+                                    <div *ngFor="let author of authors.controls; let i=index" [formGroupName]="i"
+                                        class="card mb-2">
+                                        <div class="card-body p-2">
+                                            <div class="row g-2">
+                                                <div class="col-md-3">
+                                                    <input type="text" class="form-control form-control-sm"
+                                                        placeholder="First Name" formControlName="first_name">
+                                                </div>
+                                                <div class="col-md-3">
+                                                    <input type="text" class="form-control form-control-sm"
+                                                        placeholder="Last Name" formControlName="last_name">
+                                                </div>
+                                                <div class="col-md-5">
+                                                    <input type="text" class="form-control form-control-sm"
+                                                        placeholder="Affiliation" formControlName="affiliation">
+                                                </div>
+                                                <div class="col-md-1 text-end">
+                                                    <button type="button" class="btn btn-sm btn-outline-danger"
+                                                        (click)="removeAuthor(i)"><i class="bi bi-trash"></i></button>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label d-flex justify-content-between align-items-center">
+                                    Keywords
+                                    <button type="button" class="btn btn-sm btn-outline-primary"
+                                        (click)="addKeyword()">Add Keyword</button>
+                                </label>
+                                <div formArrayName="keywords">
+                                    <div *ngFor="let keyword of keywords.controls; let i=index"
+                                        class="input-group mb-2">
+                                        <input type="text" class="form-control form-control-sm" [formControlName]="i">
+                                        <button type="button" class="btn btn-sm btn-outline-danger"
+                                            (click)="removeKeyword(i)"><i class="bi bi-trash"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="mb-3">
+                                <label class="form-label d-flex justify-content-between align-items-center">
+                                    ISSN
+                                    <button type="button" class="btn btn-sm btn-outline-primary" (click)="addIssn()">Add
+                                        ISSN</button>
+                                </label>
+                                <div formArrayName="issn">
+                                    <div *ngFor="let item of issn.controls; let i=index" class="input-group mb-2">
+                                        <input type="text" class="form-control form-control-sm" [formControlName]="i">
+                                        <button type="button" class="btn btn-sm btn-outline-danger"
+                                            (click)="removeIssn(i)"><i class="bi bi-trash"></i></button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                    <div class="tab-pane fade" id="jats" role="tabpanel" aria-labelledby="jats-tab">
+                        <pre class="bg-light p-3 border rounded"
+                            style="max-height: 500px; overflow-y: auto;"><code>{{ jats }}</code></pre>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

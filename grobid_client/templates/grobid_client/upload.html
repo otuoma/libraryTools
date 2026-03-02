@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grobid Client</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        pre {
+            background: #f8f9fa;
+            padding: 15px;
+            border-radius: 5px;
+            border: 1px solid #dee2e6;
+            max-height: 500px;
+            overflow-y: auto;
+        }
+    </style>
+</head>
+
+<body class="bg-light">
+    <div class="container py-5">
+        <div class="row justify-content-center">
+            <div class="col-md-8">
+                <div class="card shadow-sm">
+                    <div class="card-header bg-primary text-white">
+                        <h1 class="h4 mb-0">Upload Article to Grobid</h1>
+                    </div>
+                    <div class="card-body">
+                        <form method="post" enctype="multipart/form-data" class="mb-3">
+                            {% csrf_token %}
+                            <div class="mb-3">
+                                <label for="{{ form.file.id_for_label }}" class="form-label">{{ form.file.label
+                                    }}</label>
+                                <input type="file" name="{{ form.file.name }}" class="form-control"
+                                    id="{{ form.file.id_for_label }}" required>
+                                {% if form.file.help_text %}
+                                <div class="form-text">{{ form.file.help_text }}</div>
+                                {% endif %}
+                            </div>
+                            <button type="submit" class="btn btn-primary">Upload and Process</button>
+                        </form>
+
+                        {% if error %}
+                        <div class="alert alert-danger" role="alert">
+                            <h4 class="alert-heading">Error</h4>
+                            <p class="mb-0">{{ error }}</p>
+                        </div>
+                        {% endif %}
+
+                        {% if result %}
+                        <div class="mt-4">
+                            <h2 class="h5 mb-3">Extracted Metadata (TEI)</h2>
+                            <pre><code>{{ result }}</code></pre>
+                        </div>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>

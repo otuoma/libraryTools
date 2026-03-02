@@ -1,0 +1,33 @@
+<div class="d-flex flex-column flex-shrink-0 p-3 bg-light h-100" [class.collapsed]="isCollapsed"
+    style="width: 280px; transition: width 0.3s;">
+    <div class="d-flex align-items-center mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">
+        <span class="fs-4" *ngIf="!isCollapsed">Modules</span>
+    </div>
+    <hr>
+    <ul class="nav nav-pills flex-column mb-auto">
+        <li class="nav-item">
+            <a href="#" class="nav-link active" aria-current="page">
+                <i class="bi bi-house-door me-2"></i>
+                <span *ngIf="!isCollapsed">Dashboard</span>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="nav-link link-dark">
+                <i class="bi bi-file-earmark-text me-2"></i>
+                <span *ngIf="!isCollapsed">Exam Papers</span>
+            </a>
+        </li>
+        <li>
+            <a href="#" class="nav-link link-dark">
+                <i class="bi bi-cloud-download me-2"></i>
+                <span *ngIf="!isCollapsed">Content Harvester</span>
+            </a>
+        </li>
+        <li>
+            <a routerLink="/grobid" class="nav-link link-dark">
+                <i class="bi bi-journal-text me-2"></i>
+                <span *ngIf="!isCollapsed">Grobid Client</span>
+            </a>
+        </li>
+    </ul>
+</div>
